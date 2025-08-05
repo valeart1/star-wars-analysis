@@ -1,7 +1,7 @@
 """
 Analisi dei dati su Star Wars - Dataquest Inspired
 
-Autore: [Il tuo nome]
+Autore: Valerio Artusi
 Descrizione: Analisi esplorativa dei risultati di un sondaggio sulla saga di Star Wars.
 
 """
